@@ -1,0 +1,37 @@
+{
+    "username": "sayserx",
+    "profile": "1660203902349.jpg",
+    "emoji": "\ud83e\udd0d"
+},{
+    "username": "sayserx",
+    "profile": "1660203902349.jpg",
+    "emoji": "\ud83e\udd0d"
+},{
+    "username": "sayserx",
+    "profile": "1660203902349.jpg",
+    "message": "$help"
+},{
+    "bot": {
+        "username": " BOT SAYSER",
+        "profile": "bot.jpeg",
+        "message": "$help <br> $portfolio <br> $profile"
+    }
+},{
+    "username": "sayserx",
+    "profile": "1660203902349.jpg",
+    "message": "$portfolio"
+},{
+    "portfolio": {
+        "username": " BOT SAYSER",
+        "profile": "bot.jpeg",
+        "image": "sayser.jpg"
+    }
+},{
+    "username": "sayserx",
+    "profile": "1660203902349.jpg",
+    "message": "\u0e14\u0e35\u0e04\u0e23\u0e31\u0e1a"
+},{
+    "username": "sayserx",
+    "profile": "1660203902349.jpg",
+    "message": "\u0e19\u0e30\u0e04\u0e23\u0e31\u0e1a"
+}
